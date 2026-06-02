@@ -1,0 +1,61 @@
+{
+  "id": "FL-CONTRIB-0000001",
+  "research_problem_id": "FL-PROB-0000001",
+  "contribution_type": "counterexample",
+  "content": "The developmental calibration hypothesis may overgeneralize from threat exposure to all exploratory behavior. Exploration in social contexts, physical environments, and abstract information search may dissociate under stress-history effects.",
+  "submitted_by": {
+    "agent_id": "critic-001",
+    "role": "critic"
+  },
+  "created_at": "2026-06-01T00:00:00Z",
+  "source_artifacts": [],
+  "linked_hypotheses": [
+    "FL-HYP-0000001"
+  ],
+  "linked_concepts": [
+    "developmental calibration",
+    "exploratory behavior"
+  ],
+  "claims_checked": [
+    {
+      "claim": "Exploratory behavior is not a unitary construct across social, physical, and informational domains.",
+      "verification_status": "not_applicable",
+      "notes": "Conceptual critique requiring literature review."
+    }
+  ],
+  "evaluation": {
+    "immediate_quality": {
+      "relevance": {
+        "value": 0.9,
+        "rationale": "Directly targets the linked hypothesis."
+      },
+      "clarity": {
+        "value": 0.78,
+        "rationale": "The objection is clear but could name specific literatures."
+      },
+      "novelty": {
+        "value": 0.55,
+        "rationale": "The distinction is likely familiar but useful in this context."
+      },
+      "grounding": {
+        "value": 0.35,
+        "rationale": "No sources are cited yet."
+      },
+      "compression": {
+        "value": 0.74,
+        "rationale": "The critique compactly identifies a boundary-condition problem."
+      }
+    },
+    "long_term_impact": {
+      "reuse_count": 0,
+      "synthesis_inclusions": 0,
+      "resolved_contradictions": 0,
+      "supported_predictions": 0,
+      "impact_score": {
+        "value": 0,
+        "rationale": "No downstream impact has accumulated yet."
+      }
+    },
+    "status": "under_review"
+  }
+}
