@@ -1,0 +1,148 @@
+{
+  "id": "FL-HYP-0000001",
+  "claim": "Variation in early social threat exposure alters adult exploratory behavior through persistent calibration of stress-response thresholds.",
+  "alternate_formulations": [
+    "Developmental exposure to social threat tunes later exploration by shifting stress sensitivity."
+  ],
+  "status": "generated_unreviewed",
+  "domains": [
+    "developmental psychology",
+    "behavioral neuroscience",
+    "evolutionary biology"
+  ],
+  "hypothesis_type": "mechanistic",
+  "entities": [
+    "early social environment",
+    "stress-response system",
+    "exploratory behavior"
+  ],
+  "variables": [
+    {
+      "name": "early social threat exposure",
+      "role": "independent",
+      "operational_definition": "Frequency and intensity of social threat cues during development."
+    },
+    {
+      "name": "stress-response threshold",
+      "role": "mediator",
+      "operational_definition": "Physiological or behavioral threshold at which stress responses activate."
+    },
+    {
+      "name": "adult exploratory behavior",
+      "role": "dependent",
+      "operational_definition": "Novel environment exploration, risk-tolerant information seeking, or exploratory decision patterns."
+    }
+  ],
+  "mechanism": "Early threat cues calibrate neuroendocrine and attentional systems toward lower threat-detection thresholds, reducing later exploratory behavior in ambiguous contexts.",
+  "predictions": [
+    "Individuals with higher early social threat exposure will show lower exploration in ambiguous but non-dangerous contexts.",
+    "Stress-response threshold measures will partially mediate the relationship between early threat exposure and adult exploration.",
+    "Interventions that increase perceived safety should increase exploratory behavior most in individuals with high early threat exposure."
+  ],
+  "falsifiers": [
+    "No association between early social threat exposure and adult exploratory behavior after controlling for confounds.",
+    "Stress-response threshold measures do not mediate the relationship in longitudinal data.",
+    "Safety interventions have equal effects regardless of early threat exposure."
+  ],
+  "assumptions": [
+    "Developmental calibration persists into adulthood.",
+    "Exploratory behavior can be measured across comparable contexts.",
+    "Social threat exposure can be separated from broader deprivation or trauma variables."
+  ],
+  "provenance": {
+    "origin": "human_machine",
+    "generation_method": "mechanism articulation from developmental calibration theory",
+    "source_concepts": [
+      "developmental calibration",
+      "stress response",
+      "exploratory behavior",
+      "social threat"
+    ],
+    "source_records": [],
+    "created_at": "2026-06-01T00:00:00Z",
+    "artifact_refs": []
+  },
+  "preservation": {
+    "artifact_type": "blog_post",
+    "title": "Example preserved hypothesis record",
+    "authors": [
+      "Final Library project"
+    ],
+    "original_url": "https://final-library.local/examples/hypothesis.example.json",
+    "archive_url": "https://web.archive.org/example",
+    "publication_date": "2026-06-01",
+    "version_label": "v0.1",
+    "predecessor_artifacts": [],
+    "preservation_scores": {
+      "timestamp_quality": {
+        "value": 0.3,
+        "rationale": "Example record has a date but no real public archive."
+      },
+      "authorship_clarity": {
+        "value": 0.7,
+        "rationale": "Project authorship is clear enough for an example."
+      },
+      "claim_clarity": {
+        "value": 0.82,
+        "rationale": "The central claim is explicit."
+      },
+      "terminology_clarity": {
+        "value": 0.72,
+        "rationale": "Most terms are defined operationally."
+      },
+      "context_quality": {
+        "value": 0.46,
+        "rationale": "Adjacent concepts are listed, but literature context is not yet included."
+      },
+      "evidence_separation": {
+        "value": 0.76,
+        "rationale": "Predictions, falsifiers, and assumptions are separated."
+      },
+      "archive_stability": {
+        "value": 0.1,
+        "rationale": "The archive URL is a placeholder."
+      },
+      "version_traceability": {
+        "value": 0.4,
+        "rationale": "A version label exists but no version chain is present."
+      }
+    },
+    "attribution_state": "needs_human_review"
+  },
+  "evaluation": {
+    "coherence": {
+      "value": 0.82,
+      "rationale": "The proposed causal chain is internally coherent and uses established constructs."
+    },
+    "plausibility": {
+      "value": 0.66,
+      "rationale": "Related literatures support developmental stress calibration, though the specific exploration pathway requires review."
+    },
+    "novelty": {
+      "value": 0.42,
+      "rationale": "Likely overlaps with existing developmental psychopathology and life-history research."
+    },
+    "testability": {
+      "value": 0.78,
+      "rationale": "Can be tested with longitudinal cohorts, lab exploration tasks, and stress physiology measures."
+    },
+    "specificity": {
+      "value": 0.7,
+      "rationale": "Predictions are distinguishable but need tighter operational definitions."
+    },
+    "importance": {
+      "value": 0.72,
+      "rationale": "Would matter for developmental theory, education, clinical intervention, and social policy."
+    },
+    "tractability": {
+      "value": 0.61,
+      "rationale": "Testing is feasible but requires careful confound control and longitudinal data."
+    },
+    "generativity": {
+      "value": 0.76,
+      "rationale": "Suggests many adjacent hypotheses about safety, agency, learning, and exploration."
+    }
+  },
+  "evidence": [],
+  "relations": []
+}
